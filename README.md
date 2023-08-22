@@ -1,4 +1,4 @@
-# EXP-2--Implementation-of-time-series-analysisand-decomposition
+# EXP-2--Implementation-of-time-series-analysis-and-decomposition
 ## AIM:
 Illustrates how to perform time series analysis and decomposition on the monthly average
 temperature of a city/country and for airline passengers.
